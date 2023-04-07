@@ -10,3 +10,10 @@ jobs:
       - name: step2
         run: echo "Bye from Github Runner"
 
+      - name: step3
+        run: echo "Github is very powerfull tool"
+        
+      - name: step4
+        run: echo "Github is used to store and proess"
+
+
