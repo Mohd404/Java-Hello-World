@@ -24,6 +24,14 @@ To compile the "Hello World" program, type the following:
 javac HelloWorld.java
 ```
 
+## configer classpath to run program
+
+
+```console
+export CLASSPATH=$CLASSPATH;$JAVA_HOME
+```
+
+
 ## Excute the program
 
 To execute the program, type this:
